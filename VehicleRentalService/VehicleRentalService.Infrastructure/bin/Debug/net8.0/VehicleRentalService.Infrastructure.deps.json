@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "VehicleRentalService.Infrastructure/1.0.0": {
+        "dependencies": {
+          "VehicleRentalService.Core": "1.0.0"
+        },
+        "runtime": {
+          "VehicleRentalService.Infrastructure.dll": {}
+        }
+      },
+      "VehicleRentalService.Core/1.0.0": {
+        "runtime": {
+          "VehicleRentalService.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VehicleRentalService.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VehicleRentalService.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
